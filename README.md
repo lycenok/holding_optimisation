@@ -22,7 +22,7 @@ M(PnL) = (PnL(1) + ... + PnL(N)) / N
 Var(PnL) = ((PnL(1) - M(PnL))^2 + (PnL(2)) - M(PnL))^2 + ... (PnL(N) - M(PnL))^2    
 
 Find maximum of PnL(n) with the constraint Var(PnL) <= sigma^2,
-t_a(1), ... t_a(n),t_b(1), ... t_b(n) in R (rational numbers)
+t_a(1), ... t_a(n),t_b(1), ... t_b(n) in R (real numbers)
 
 ```
 
